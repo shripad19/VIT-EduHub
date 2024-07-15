@@ -42,5 +42,4 @@ VIT EduHub is a web application designed for college administration and students
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/shripad19/VIT-EduHub.git
-   cd vit-eduhub
 2.  Install server and client dependencies, set up environment variables, start MongoDB, run the server and client, and open the application in your browser by following the steps provided.
